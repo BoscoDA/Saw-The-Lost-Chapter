@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Final_Game_Project.Trap">
+    <Position X="11" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAACAAAAIAAAAAAAAAAAAAAAAAwAAAQAA=</HashCode>
+      <FileName>Traps\Trap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.TextAnimationUtils">
+    <Position X="10.75" Y="12.75" Width="6" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Utils\TextAnimationUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.Program">
+    <Position X="18.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.Player">
+    <Position X="18.25" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAIBAAAAAgQAAAAEAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.Menu">
+    <Position X="15.75" Y="5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAIIAAAABAAAI=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.Game">
+    <Position X="15.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAACAAAAAAADAAAIAQAABABAAEEAkAAAAAAgA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.ConsoleUtils">
+    <Position X="10.75" Y="10.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Utils\ConsoleUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.Art_Assets">
+    <Position X="8" Y="9" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AEAAEAAhAANgACAAAEAQEBEAGEIAwAEABgBAAAAAAAA=</HashCode>
+      <FileName>Art Assets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.Scenes.BillyIntro">
+    <Position X="2.75" Y="6.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Scenes\BillyIntro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.Scenes.Credits">
+    <Position X="0.5" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Scenes\Credits.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.Scenes.Trap1">
+    <Position X="0.5" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQEAAggAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Scenes\Trap1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.Scenes.Intro">
+    <Position X="5" Y="6.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAI=</HashCode>
+      <FileName>Scenes\Intro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.Scenes.MainMenu">
+    <Position X="7.5" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Scenes\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.Scenes.Scene">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAI=</HashCode>
+      <FileName>Scenes\Scene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.Scenes.Struggle">
+    <Position X="7.5" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAACAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Scenes\Struggle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.Maze.GameMaze">
+    <Position X="4.25" Y="12" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAgCACAAAAAoAAAAAAAAAAAAAAAgAAAAgAAAAAA=</HashCode>
+      <FileName>Maze\GameMaze.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.Maze.LevelParser">
+    <Position X="0.5" Y="12" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Maze\LevelParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.Maze.MazePlayer">
+    <Position X="3.75" Y="9.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAEgAAAAAYAA=</HashCode>
+      <FileName>Maze\MazePlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.Maze.World">
+    <Position X="0.5" Y="9.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAABgAAAAAAAkAgAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Maze\World.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.Lock">
+    <Position X="13.75" Y="10" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAgAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Lock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.Scenes.FinalDoor">
+    <Position X="10.75" Y="4.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Traps\FinalDoor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.Reverse_Bear_Trap">
+    <Position X="10.5" Y="7" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Traps\Reverse Bear Trap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.Scenes.Final_Scene">
+    <Position X="5" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Scenes\Final Scene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.Scenes.PreTrap1" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Scenes\PreTrap1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.Scenes.Trap2" Collapsed="true">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CRAAAAAgAAACEAEAABAAAAAACAEEAAAAgBBCAAAAAgI=</HashCode>
+      <FileName>Scenes\Trap2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.Scenes.You_Died" Collapsed="true">
+    <Position X="3" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Scenes\You Died.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
